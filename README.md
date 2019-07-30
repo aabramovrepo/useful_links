@@ -1,7 +1,6 @@
 ## Deep Learning Architectures
 
 - [Semantic Segmentation — U-Net](https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066)
-
 - [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)
 - [Deep Learning Paper Implementations: Spatial Transformer Networks - Part II](https://kevinzakka.github.io/2017/01/18/stn-part2/)
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
@@ -12,7 +11,6 @@
 - [The Chain Rule of Calculus](https://eli.thegreenplace.net/2016/the-chain-rule-of-calculus/)
 - [Understanding gradient descent](https://eli.thegreenplace.net/2016/understanding-gradient-descent)
 - [Logistic regression](https://eli.thegreenplace.net/2016/logistic-regression/)
-
 - [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/index.html)
@@ -23,7 +21,6 @@
 - [Open Machine Learning Course](https://mlcourse.ai/)
 - [Introduction to Machine Learning Algorithms: Linear Regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
 - [Introduction to Machine Learning Algorithms: Logistic Regression](https://hackernoon.com/introduction-to-machine-learning-algorithms-logistic-regression-cbdd82d81a36)
-
 - [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 - [Support Vector Machines — Soft Margin Formulation and Kernel Trick](https://towardsdatascience.com/support-vector-machines-soft-margin-formulation-and-kernel-trick-4c9729dc8efe)
 - [Support Vector Machines: A Visual Explanation with Sample Python Code](https://youtu.be/N1vOgolbjSc)
@@ -42,6 +39,8 @@
 - [Explaining Homogeneous Coordinates & Projective Geometry](https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/)
 - [Detectors and Descriptors (lecture by Stanford Vision Lab)](http://vision.stanford.edu/teaching/cs231a_autumn1112/lecture/lecture11_detectors_descriptors_cs231a.pdf)
 - [Color balancing imagery with histogram matching](https://blog.mapbox.com/color-balancing-imagery-with-histogram-matching-be1b38c28509)
+- [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+- [Visualizing MNIST: An Exploration of Dimensionality Reduction](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
 #### Omnidirectional Camera
 
