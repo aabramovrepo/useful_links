@@ -15,6 +15,8 @@
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/index.html)
 - [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
 
 ## Machine Learning
 
