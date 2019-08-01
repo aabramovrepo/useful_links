@@ -26,9 +26,10 @@
 - [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 - [Support Vector Machines — Soft Margin Formulation and Kernel Trick](https://towardsdatascience.com/support-vector-machines-soft-margin-formulation-and-kernel-trick-4c9729dc8efe)
 - [Support Vector Machines: A Visual Explanation with Sample Python Code](https://youtu.be/N1vOgolbjSc)
-
 - [Singular Value Decomposition (SVD)](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/book-chapter-4.pdf)
 - [PCA Whitening](http://ufldl.stanford.edu/tutorial/unsupervised/PCAWhitening/)
+- [A tutorial on Principal Components Analysis](http://www.iro.umontreal.ca/~pift6080/H09/documents/papers/pca_tutorial.pdf)
+- [PCA with scikit](https://scikit-learn.org/stable/modules/decomposition.html#pca)
 
 ## C++
 
