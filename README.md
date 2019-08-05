@@ -17,6 +17,7 @@
 - [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
+- [The Backpropagation Algorithm](https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
 
 ## Machine Learning
 
@@ -51,3 +52,6 @@
 - [OCamCalib: Omnidirectional Camera Calibration Toolbox for Matlab](https://sites.google.com/site/scarabotix/ocamcalib-toolbox)
 - [Omnidirectional Camera](http://rpg.ifi.uzh.ch/docs/omnidirectional_camera.pdf)
 
+## Tools
+
+- [StackEdit in-browser Markdown editor](https://stackedit.io/)
