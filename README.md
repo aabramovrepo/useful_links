@@ -7,6 +7,7 @@
 
 ## Deep Learning Basics
 
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html) Stanford University
 - [The Softmax function and its derivative](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/)
 - [The Chain Rule of Calculus](https://eli.thegreenplace.net/2016/the-chain-rule-of-calculus/)
 - [Understanding gradient descent](https://eli.thegreenplace.net/2016/understanding-gradient-descent)
@@ -55,3 +56,6 @@
 ## Tools
 
 - [StackEdit in-browser Markdown editor](https://stackedit.io/)
+- [docker for beginners](https://docker-curriculum.com/)
+- [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+- [Docker — Beginner’s Guide](https://medium.com/codingthesmartway-com-blog/docker-beginners-guide-part-1-images-containers-6f3507fffc98)
