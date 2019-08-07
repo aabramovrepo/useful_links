@@ -20,6 +20,11 @@
 - [Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
 - [The Backpropagation Algorithm](https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
 
+## Deep Learning (useful techniques)
+
+- [Writing tests for the Albumentations library with pytest](https://towardsdatascience.com/writing-test-for-the-image-augmentation-albumentation-library-a73d7bc1caa7)
+- [Albumentations library](https://github.com/albu/albumentations) fast image augmentation library
+
 ## Machine Learning
 
 - [Open Machine Learning Course](https://mlcourse.ai/)
@@ -38,6 +43,10 @@
 - [Understanding Move Semantics and Perfect Forwarding: Part 1](https://medium.com/@dr3wc/understanding-move-semantics-and-perfect-forwarding-987cf4dc7e27)
 - [Understanding Move Semantics and Perfect Forwarding: Part 2](https://medium.com/@dr3wc/understanding-move-semantics-and-perfect-forwarding-part-2-6b8266b6cfa4)
 - [Understanding Move Semantics and Perfect Forwarding: Part 3](https://medium.com/@dr3wc/understanding-move-semantics-and-perfect-forwarding-part-3-65575d523ff8)
+
+## Python
+
+- [Writing tests for the Albumentations library with pytest](https://towardsdatascience.com/writing-test-for-the-image-augmentation-albumentation-library-a73d7bc1caa7)
 
 ## Computer Vision
 
