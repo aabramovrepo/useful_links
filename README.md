@@ -19,6 +19,7 @@
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
 - [The Backpropagation Algorithm](https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
+- [http://cs231n.stanford.edu/handouts/linear-backprop.pdf](Backpropagation for a Linear Layer)
 
 ## Deep Learning (useful techniques)
 
