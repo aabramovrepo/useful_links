@@ -66,6 +66,17 @@
 - [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 - [Visualizing MNIST: An Exploration of Dimensionality Reduction](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
+#### Feature Detection and Matching
+
+- [Introduction To Feature Detection And Matching](https://medium.com/software-incubator/introduction-to-feature-detection-and-matching-65e27179885d)
+- [Introduction to Harris Corner Detector](https://medium.com/software-incubator/introduction-to-harris-corner-detector-32a88850b3f6)
+- [Introduction to SIFT( Scale Invariant Feature Transform)](https://medium.com/software-incubator/introduction-to-sift-scale-invariant-feature-transform-65d7f3a72d40)
+- [Introduction to SURF (Speeded-Up Robust Features)](https://medium.com/software-incubator/introduction-to-surf-speeded-up-robust-features-c7396d6e7c4e)
+- [Introduction to FAST (Features from Accelerated Segment Test)](https://medium.com/software-incubator/introduction-to-fast-features-from-accelerated-segment-test-4ed33dde6d65)
+- [Introduction to BRIEF(Binary Robust Independent Elementary Features)](https://medium.com/software-incubator/introduction-to-brief-binary-robust-independent-elementary-features-436f4a31a0e6)
+- [Introduction to ORB (Oriented FAST and Rotated BRIEF)](https://medium.com/software-incubator/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf)
+
+
 #### Omnidirectional Camera
 
 - [Omnidirectional Cameara Calibration](https://docs.opencv.org/3.4/dd/d12/tutorial_omnidir_calib_main.html)
