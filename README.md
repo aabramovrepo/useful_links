@@ -13,6 +13,7 @@
 - [Understanding gradient descent](https://eli.thegreenplace.net/2016/understanding-gradient-descent)
 - [Logistic regression](https://eli.thegreenplace.net/2016/logistic-regression/)
 - [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md)
+- [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 - [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - [Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/index.html)
 - [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
