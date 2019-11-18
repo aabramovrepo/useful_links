@@ -88,6 +88,9 @@
 
 ## Tools
 
+- [GIT: Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+- [GIT: merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+- [GIT: fetch](https://www.atlassian.com/git/tutorials/syncing/git-fetch)
 - [StackEdit in-browser Markdown editor](https://stackedit.io/)
 - [docker for beginners](https://docker-curriculum.com/)
 - [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
