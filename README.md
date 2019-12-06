@@ -21,6 +21,7 @@
 - [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
+- [Deep Double Descent](https://openai.com/blog/deep-double-descent/)
 
 ### Backpropagation
 
@@ -37,6 +38,7 @@
 
 - [Writing tests for the Albumentations library with pytest](https://towardsdatascience.com/writing-test-for-the-image-augmentation-albumentation-library-a73d7bc1caa7)
 - [Albumentations library](https://github.com/albu/albumentations) fast image augmentation library
+- [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://github.com/hendrycks/robustness)
 
 ## Machine Learning
 
@@ -50,6 +52,12 @@
 - [PCA Whitening](http://ufldl.stanford.edu/tutorial/unsupervised/PCAWhitening/)
 - [A tutorial on Principal Components Analysis](http://www.iro.umontreal.ca/~pift6080/H09/documents/papers/pca_tutorial.pdf)
 - [PCA with scikit](https://scikit-learn.org/stable/modules/decomposition.html#pca)
+
+## Sensor Fusion and 3D Object detection
+
+- [Leveraging Early Sensor Fusion for Safer Autonomous Vehicles](https://medium.com/lyftlevel5/leveraging-early-sensor-fusion-for-safer-autonomous-vehicles-36c9f58ddd75#4107) by Lyft
+- [Frustum PointNets for 3D Object Detection from RGB-D Data](https://github.com/charlesq34/frustum-pointnets)
+- [Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection](https://github.com/zhixinwang/frustum-convnet)
 
 ## C++
 
