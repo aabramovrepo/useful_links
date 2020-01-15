@@ -69,6 +69,10 @@
 
 - [Writing tests for the Albumentations library with pytest](https://towardsdatascience.com/writing-test-for-the-image-augmentation-albumentation-library-a73d7bc1caa7)
 
+## Software Design
+
+- [Design Patterns](https://refactoring.guru/design-patterns)
+
 ## Computer Vision
 
 - [Explaining Homogeneous Coordinates & Projective Geometry](https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/)
