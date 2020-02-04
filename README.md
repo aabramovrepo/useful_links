@@ -40,6 +40,10 @@
 - [Writing tests for the Albumentations library with pytest](https://towardsdatascience.com/writing-test-for-the-image-augmentation-albumentation-library-a73d7bc1caa7)
 - [Albumentations library](https://github.com/albu/albumentations) fast image augmentation library
 - [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://github.com/hendrycks/robustness)
+- [Introduction to Cyclical Learning Rates](https://www.datacamp.com/community/tutorials/cyclical-learning-neural-nets)
+- [Cyclical Learning Rates — The ultimate guide for setting learning rates for Neural Networks](https://medium.com/swlh/cyclical-learning-rates-the-ultimate-guide-for-setting-learning-rates-for-neural-networks-3104e906f0ae)
+- [Adaptive - and Cyclical Learning Rates using PyTorch](https://towardsdatascience.com/adaptive-and-cyclical-learning-rates-using-pytorch-2bf904d18dee)
+- [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 
 ## Machine Learning
 
