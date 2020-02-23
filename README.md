@@ -28,7 +28,7 @@
 
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 - [The Backpropagation Algorithm](https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
-- [http://cs231n.stanford.edu/handouts/linear-backprop.pdf](Backpropagation for a Linear Layer)
+- [Backpropagation for a Linear Layer](http://cs231n.stanford.edu/handouts/linear-backprop.pdf)
 - [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf)
 - [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
