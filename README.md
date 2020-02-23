@@ -34,6 +34,8 @@
 - [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
 - [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
+- [What is backpropagation](https://youtu.be/Ilg3gGewQ5U)
+- [Backpropagation calculus ](https://youtu.be/tIeHLnjs5U8)
 
 ## Deep Learning (useful techniques)
 
