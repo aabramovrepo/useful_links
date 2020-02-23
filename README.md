@@ -44,6 +44,7 @@
 - [Cyclical Learning Rates — The ultimate guide for setting learning rates for Neural Networks](https://medium.com/swlh/cyclical-learning-rates-the-ultimate-guide-for-setting-learning-rates-for-neural-networks-3104e906f0ae)
 - [Adaptive - and Cyclical Learning Rates using PyTorch](https://towardsdatascience.com/adaptive-and-cyclical-learning-rates-using-pytorch-2bf904d18dee)
 - [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
+- [How to Train Your ResNet](https://myrtle.ai/how-to-train-your-resnet/)
 
 ## Machine Learning
 
