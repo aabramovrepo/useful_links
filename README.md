@@ -78,6 +78,7 @@
 - [Writing tests for the Albumentations library with pytest](https://towardsdatascience.com/writing-test-for-the-image-augmentation-albumentation-library-a73d7bc1caa7)
 - [Guido van Rossum: Stanford Seminar - Optional Static Typing for Python](https://youtu.be/GiZKuyLKvAA)
 - [Greg Price - Clearer Code at Scale: Static Types at Zulip and Dropbox - PyCon 2018](https://youtu.be/0c46YHS3RY8)
+- [Carl Meyer - Type-checked Python in the real world - PyCon 2018](https://youtu.be/pMgmKJyWKn8)
 
 ## Software Design
 
