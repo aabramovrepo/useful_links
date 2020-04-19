@@ -79,6 +79,8 @@
 - [Guido van Rossum: Stanford Seminar - Optional Static Typing for Python](https://youtu.be/GiZKuyLKvAA)
 - [Greg Price - Clearer Code at Scale: Static Types at Zulip and Dropbox - PyCon 2018](https://youtu.be/0c46YHS3RY8)
 - [Carl Meyer - Type-checked Python in the real world - PyCon 2018](https://youtu.be/pMgmKJyWKn8)
+- [Instagram MonkeyType](https://instagram-engineering.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
+- [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
 
 ## Software Design
 
