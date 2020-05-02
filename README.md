@@ -81,6 +81,8 @@
 - [Carl Meyer - Type-checked Python in the real world - PyCon 2018](https://youtu.be/pMgmKJyWKn8)
 - [Instagram MonkeyType](https://instagram-engineering.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
 - [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
+- [Brett Slatkin: Fan-in and Fan-out: The crucial components of concurrency - PyCon 2014 (asyncio)](https://youtu.be/CWmq-jtkemY)
+- [Tulip: Async I/O for Python 3 by Guido van Rossum](https://youtu.be/1coLC-MUCJc)
 
 ## Software Design
 
