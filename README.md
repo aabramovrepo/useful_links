@@ -23,6 +23,8 @@
 - [Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)
 - [Deep Double Descent](https://openai.com/blog/deep-double-descent/)
 - [Metrics to Evaluate your Semantic Segmentation Model](https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2)
+- [Quantization Algorithms](https://nervanasystems.github.io/distiller/algo_quantization.html)
+- [Knowledge Distillation](https://medium.com/neuralmachine/knowledge-distillation-dc241d7c2322)
 
 ### Backpropagation
 
