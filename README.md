@@ -86,6 +86,10 @@
 - [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
 - [Brett Slatkin: Fan-in and Fan-out: The crucial components of concurrency - PyCon 2014 (asyncio)](https://youtu.be/CWmq-jtkemY)
 - [Tulip: Async I/O for Python 3 by Guido van Rossum](https://youtu.be/1coLC-MUCJc)
+- [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
+- [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
+- [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/#public-and-private)
+- [Defining Main Functions in Python](https://realpython.com/python-main-function/)
 
 ## Software Design
 
