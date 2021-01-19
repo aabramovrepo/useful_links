@@ -90,6 +90,8 @@
 - [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
 - [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
 - [Defining Main Functions in Python](https://realpython.com/python-main-function/)
+- [Python Metaclasses](https://realpython.com/python-metaclasses/)
+- [Implementing an Interface in Python](https://realpython.com/python-interface/)
 
 ## Software Design
 
