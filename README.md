@@ -92,6 +92,8 @@
 - [Defining Main Functions in Python](https://realpython.com/python-main-function/)
 - [Python Metaclasses](https://realpython.com/python-metaclasses/)
 - [Implementing an Interface in Python](https://realpython.com/python-interface/)
+- [Python import: Advanced Techniques and Tips](https://realpython.com/python-import/)
+- [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)
 
 ## Software Design
 
