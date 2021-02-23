@@ -1,5 +1,7 @@
 ## Deep Learning Architectures
 
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95)
+- [Review: Xception — With Depthwise Separable Convolution, Better Than Inception-v3 (Image Classification)](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568)  
 - [Semantic Segmentation — U-Net](https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066)
 - [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)
 - [Deep Learning Paper Implementations: Spatial Transformer Networks - Part II](https://kevinzakka.github.io/2017/01/18/stn-part2/)
@@ -52,6 +54,8 @@
 
 ## Machine Learning
 
+- [MuZero: The Walkthrough (Part 1/3)](https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a)
+- [9 Distance Measures in Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 - [Open Machine Learning Course](https://mlcourse.ai/)
 - [Introduction to Machine Learning Algorithms: Linear Regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
 - [Introduction to Machine Learning Algorithms: Logistic Regression](https://hackernoon.com/introduction-to-machine-learning-algorithms-logistic-regression-cbdd82d81a36)
@@ -77,6 +81,8 @@
 
 ## Python
 
+- [Using and Mastering Cookiecutter](https://training.talkpython.fm/courses/explore_cookiecutter_course/using-and-mastering-cookiecutter-templates-for-project-creation)
+- [Pattern Matching](https://github.com/gvanrossum/patma/blob/master/README.md)
 - [Click package](https://click.palletsprojects.com/en/7.x/)
 - [Writing tests for the Albumentations library with pytest](https://towardsdatascience.com/writing-test-for-the-image-augmentation-albumentation-library-a73d7bc1caa7)
 - [Guido van Rossum: Stanford Seminar - Optional Static Typing for Python](https://youtu.be/GiZKuyLKvAA)
@@ -94,6 +100,8 @@
 - [Implementing an Interface in Python](https://realpython.com/python-interface/)
 - [Python import: Advanced Techniques and Tips](https://realpython.com/python-import/)
 - [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports/)
+- [Data Classes in Python 3.7+ (Guide)](https://realpython.com/python-data-classes/)
+- [Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018](https://youtu.be/T-TwcmT6Rcw)
 
 ## Software Design
 
@@ -126,6 +134,7 @@
 
 ## Tools
 
+- [Quaternions and 3d rotation, explained interactively](https://youtu.be/zjMuIxRvygQ)
 - [GIT: Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 - [GIT: merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
 - [GIT: fetch](https://www.atlassian.com/git/tutorials/syncing/git-fetch)
