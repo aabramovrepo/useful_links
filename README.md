@@ -78,6 +78,8 @@
 - [Understanding Move Semantics and Perfect Forwarding: Part 1](https://medium.com/@dr3wc/understanding-move-semantics-and-perfect-forwarding-987cf4dc7e27)
 - [Understanding Move Semantics and Perfect Forwarding: Part 2](https://medium.com/@dr3wc/understanding-move-semantics-and-perfect-forwarding-part-2-6b8266b6cfa4)
 - [Understanding Move Semantics and Perfect Forwarding: Part 3](https://medium.com/@dr3wc/understanding-move-semantics-and-perfect-forwarding-part-3-65575d523ff8)
+- [The Curiously Recurring Template Pattern (CRTP)](https://www.fluentcpp.com/2017/05/12/curiously-recurring-template-pattern/)
+- [A Recap on User Defined Literals](https://www.fluentcpp.com/2021/10/08/a-recap-on-user-defined-literals/)
 
 ## Python
 
